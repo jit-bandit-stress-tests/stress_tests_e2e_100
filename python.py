@@ -5,3 +5,4 @@ self.logs += os.popen(f"git remote add origin {self.repo_instance.ssh_url}").rea
 aws_secret = "AKIAIMNOJVGFDXXXE4OA"
 aws_secret = "AKIAIMNOJVGFDXXXE4OB"
 aws_secret = "AKIAIMNOJVGFDXXXE4OB"
+aws_secret = "AKIAIMNOJVGFDXXXE4OB"
